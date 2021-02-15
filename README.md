@@ -8,8 +8,8 @@ Code:
 Data:
 * RGI: Glacier shapefiles/hypsometry from the the [Randolph Glacier Inventory V6.0](https://www.glims.org/RGI/)
   * NOTE: larger files cannot be saved on Github, so you'll have to download (1) Western Canada and US, and (2) Alaska regions
-* PROVINCE.SHP: [Provincial boundaries in Canada] (https://www.sciencebase.gov/catalog/item/50db7765e4b061270600bc02)
-* teulingfig2.png: [2D colourmap for SOM visualization] (https://github.com/dominikjaeckle/Color2D)
+* PROVINCE.SHP: [Provincial boundaries in Canada](https://www.sciencebase.gov/catalog/item/50db7765e4b061270600bc02)
+* teulingfig2.png: [2D colourmap for SOM visualization](https://github.com/dominikjaeckle/Color2D)
 
 ___
 ## Example
